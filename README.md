@@ -18,7 +18,7 @@
     <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code>
     <br><br>
     <br>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suhanakaura&show_icons=true&theme=gotham" alt="Suhana | Stats" />
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thakurrr-77&show_icons=true&theme=gotham" alt="Shubham | Stats" />
   <br>
   <br>
   
